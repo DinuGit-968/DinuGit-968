@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/dinuja-tharinda-210bb1358)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dinuja-tharinda-210bb1358)
 
 ---
 
